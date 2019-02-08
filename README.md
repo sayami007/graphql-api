@@ -1,5 +1,7 @@
 # Graphql API
 > Graphql server setup. 
+> This repo contains a graphql server which deals with simple use of graphql implementation in Node JS Server.
+> It contains a demo database(JSON Data) which have user, posts and comments json files in the db.js file.
 
 # Files
 - src/index.js
@@ -13,7 +15,7 @@
 
 # File Description
 ### src/index.js
- > Contains the main server. graphql-yoga is used to setup server for the GraphQL /*https://github.com/prisma/graphql-yoga*/.
+ > Contains the main server. graphql-yoga is used to setup server for the GraphQL (https://github.com/prisma/graphql-yoga)
 
 ### src/db.js  
  > Contains the main data for the application. Bascially, it is obtained from different Rest API End Points in the future.
