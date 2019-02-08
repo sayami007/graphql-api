@@ -1,43 +1,43 @@
-#Graphql API from 
+# Graphql API from 
 
-#Files
--src/index.js
--src/db.js
--src/schema.graphql
--src/resolvers/Query.js
--src/resolvers/Comment.js
--src/resolvers/Post.js
--src/resolvers/User.js
--src/resolvers/Mutation.js
+# Files
+- src/index.js
+- src/db.js
+- src/schema.graphql
+- src/resolvers/Query.js
+- src/resolvers/Comment.js
+- src/resolvers/Post.js
+- src/resolvers/User.js
+- src/resolvers/Mutation.js
 
 
-##src/index.js
+## src/index.js
  >
 
-##src/db.js  
- >Contains the main data for the application. Bascially it is obtained from different Rest API End Points.
+## src/db.js  
+ > Contains the main data for the application. Bascially it is obtained from different Rest API End Points.
 
-##src/schema.graphql
+## src/schema.graphql
+ > 
+ 
+## src/resolvers/Query.js
+ > 
+ 
+## src/resolvers/Comment.js
  >
  
-##src/resolvers/Query.js
+## src/resolvers/Post.js
  >
  
-##src/resolvers/Comment.js
+## src/resolvers/User.js
  >
  
-##src/resolvers/Post.js
- >
- 
-##src/resolvers/User.js
- >
- 
-##src/resolvers/Mutation.js
+## src/resolvers/Mutation.js
  >
  
 
 
-#Running the server
+# Running the server
 ````
     npm install
 
